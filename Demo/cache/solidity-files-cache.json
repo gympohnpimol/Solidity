@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/gym/Desktop/Solidity/Demo/contracts/Hello.sol": {
+      "lastModificationDate": 1633359535463,
+      "contentHash": "f60feb9ecaa2dd248e20260737bd2eec",
+      "sourceName": "contracts/Hello.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.7"
+      ],
+      "artifacts": [
+        "Hello"
+      ]
+    }
+  }
+}
