@@ -17,7 +17,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
-const mnemonic = '';
+const mnemonic = 'supply uphold also chronic same absorb kitten keep wealth oppose horn job';
+const privatekey = 'df57089febbacf7ba0bc227dafbffa9fc08a93fdc68e1e42411a14efcf23656e'
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
